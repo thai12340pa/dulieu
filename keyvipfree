@@ -1,10 +1,10 @@
 [
 {
-    "name": "'. $name . '",
-    "key": "'. $key . '",
-    "truycaplancuoi": "'. '0'. '",
-    "solandatruycap": "'. '0' . '",
-    "gioihantruycap": "'. $gioihantruycap . '",
-    "ngayhethan": "'. $ngayhethan . '"
+    "name": "khoi",
+    "key": "khoi",
+    "truycaplancuoi": "20240101",
+    "solandatruycap": "20240101",
+    "gioihantruycap": "20240101",
+    "ngayhethan": "20240101"
   }
 ]
