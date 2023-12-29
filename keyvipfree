@@ -1,1 +1,10 @@
-Khoidz
+[
+{
+    "name": "'. $name . '",
+    "key": "'. $key . '",
+    "truycaplancuoi": "'. '0'. '",
+    "solandatruycap": "'. '0' . '",
+    "gioihantruycap": "'. $gioihantruycap . '",
+    "ngayhethan": "'. $ngayhethan . '"
+  }
+]
